@@ -137,6 +137,8 @@ public class ChatBoxController implements Initializable {
     private File f = null;
 
     //
+    
+    
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         //formatter_1=DateTimeFormatter.ofPattern("dd-MMM-yyyy");
